@@ -24,9 +24,9 @@ max(misaligned, generic flip).
 | | hold | targeted flip | misaligned flip | selectivity vs base |
 |---|---|---|---|---|
 | Qwen3-8B prompt-only | .13 | .65 | .59 | — |
-| Qwen3-8B SFT (16k) | **.82** | .78 | .00–.02 | **+0.73** [+0.72,+0.74] |
+| Qwen3-8B SFT (16k) | **.82** | .79 | .00–.02 | **+0.73** [+0.72,+0.74] |
 | Qwen3-14B prompt-only | .31 | .57 | .40 | — |
-| Qwen3-14B SFT (4k) | **.80** | .78 | .00–.02 | **+0.62** [+0.59,+0.66] |
+| Qwen3-14B SFT (4k) | **.80** | .79 | .00–.02 | **+0.62** [+0.59,+0.66] |
 
 - **H1 (trainability)**: PASS on all 13 grid rows (0.6B–14B × 1k/4k/16k).
 - **H2 (scaling)**: hold rises monotonically with size and data on every row.
@@ -43,7 +43,7 @@ max(misaligned, generic flip).
 
 ```
 docs/PLAN.md          preregistration (frozen v1.0 + dated amendments)
-docs/DECISIONS.md     decision log D-001..D-026 (method choices + infra forensics)
+docs/DECISIONS.md     decision log D-001..D-027 (method choices + infra forensics)
 docs/PAPER.md         paper draft (single source: docs/results_interim_20260826.md)
 docs/figs*/           scaling / selectivity / guardrail / drift figures
 docs/appendix_*.md    prompts + per-malrule breakdowns
@@ -96,6 +96,7 @@ Code mirror: [Gitee](https://gitee.com/zty552252kevin/holdfast).
 - This project does **not** use MalruleLib content to train, fine-tune, or
   evaluate any commercial/closed-source LLM, and this restriction carries to
   downstream use of the released data.
+- See [`LICENSE`](LICENSE) for the component-by-component terms.
 
 ## Citation
 

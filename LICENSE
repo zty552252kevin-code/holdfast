@@ -1,0 +1,32 @@
+HoldFast 执迷 — License (v1.0)
+
+This repository combines original work with material derived from
+MalruleLib. Different components carry different terms; all of them are
+non-commercial. This file formalizes the terms already stated in
+README.md ("License notes") and the ModelScope model card.
+
+1. MalruleLib-derived material — data/ (scaffolds, rendered dialogues,
+   probe sets, DPO pairs), the generator/probe code that embeds MalruleLib
+   malrule logic (e.g. harness/gen_scaffolds.py, harness/build_probes.py,
+   harness/probe_eval.py), and runs_mirror/ evaluation outputs — inherits
+   the MalruleLib license (non-commercial, share-alike, attribution):
+   https://github.com/sonkar-lab/malrulelib (pinned commit 8ddedfb).
+   Attribution: Chen, Liu & Sonkar, arXiv:2601.03217 (ACL Main 2026).
+
+2. All other original content in this repository (the remaining harness/
+   code, docs/, figures) is released for non-commercial research use with
+   attribution: cite this repository (BibTeX in README.md).
+
+3. Trained checkpoints (hosted on ModelScope at
+   ZhaoKevin/holdfast-qwen3-student-simulators) are released for
+   non-commercial research use with attribution. Qwen3 base weights are
+   Apache-2.0; respect both licenses.
+
+4. Carried restriction (from the MalruleLib license): MalruleLib-derived
+   content must not be used to train, fine-tune, or evaluate commercial
+   or closed-source models. This restriction carries to downstream use of
+   the released data and of checkpoints trained on it.
+
+Provided "as is", without warranty of any kind. The released simulators
+deliberately produce mathematically incorrect content by design; see the
+intended-use notes in README.md and the model card.
