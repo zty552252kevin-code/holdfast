@@ -1,0 +1,18 @@
+# weights / large artifacts live in ~/holdfast-staging, never in-repo
+*.safetensors
+*.gguf
+*.bin
+models/
+wandb/
+data/generated/
+data/cache/
+
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+*.log
+
+# local session conventions (contain infra identifiers); untracked per D-027
+CLAUDE.md

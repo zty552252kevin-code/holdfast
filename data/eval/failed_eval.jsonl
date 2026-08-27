@@ -1,0 +1,9 @@
+{"dialogue_id": "eval_hold_00014", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "eval_flip_targeted_00152", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "eval_flip_targeted_00159", "violations": ["turn 2: missing malrule answer", "turn 5: role mismatch", "turn 8: missing correct answer"]}
+{"dialogue_id": "eval_flip_targeted_00171", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "eval_flip_targeted_00175", "violations": ["unparseable JSON"]}
+{"dialogue_id": "eval_flip_targeted_00219", "violations": ["unparseable JSON"]}
+{"dialogue_id": "eval_flip_misaligned_00261", "violations": ["turn 2: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "eval_flip_misaligned_00259", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "eval_flip_misaligned_00264", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer"]}

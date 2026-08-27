@@ -1,0 +1,732 @@
+{"dialogue_id": "main_control_correct_15496", "violations": ["turn 3: role mismatch", "turn 4: role mismatch", "turn 5: role mismatch", "turn 5: problem text not verbatim", "turn 6: role mismatch", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_misaligned_11570", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12357", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12934", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13454", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13741", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_targeted_06515", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_06607", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_06616", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_07497", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07636", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07509", "violations": ["turn 5: remediation lacks correct answer"]}
+{"dialogue_id": "main_flip_targeted_07691", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer"]}
+{"dialogue_id": "main_flip_targeted_07780", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07832", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_08408", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_08642", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_08854", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09007", "violations": ["turn 3: role mismatch", "turn 5: role mismatch", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 7: role mismatch", "turn 7: problem text not verbatim", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_08979", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09147", "violations": ["turn count 7 != 8"]}
+{"dialogue_id": "main_flip_targeted_09649", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09824", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10073", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10691", "violations": ["turn 5: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_11008", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_hold_00065", "violations": ["turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00211", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00262", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01108", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01318", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_01732", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_02755", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_02799", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_02620", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_02936", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_hold_02813", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_04141", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer"]}
+{"dialogue_id": "main_hold_04820", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05445", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_06012", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_hold_05721", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_05973", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_06250", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_06070", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_control_correct_15155", "violations": ["turn count 7 != 6"]}
+{"dialogue_id": "main_flip_misaligned_11124", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11218", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_11425", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_11570", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11801", "violations": ["turn 1: problem text not verbatim"]}
+{"dialogue_id": "main_flip_misaligned_11953", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12057", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_12124", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_12357", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12335", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_12446", "violations": ["turn 5: LEAK correct answer in misaligned remediation", "turn 6: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12663", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_12681", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12609", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12934", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13056", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13278", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13366", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13454", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13536", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13741", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_13888", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13778", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13948", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_14022", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_14146", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_06427", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_06507", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_06508", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_06515", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_06607", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_06687", "violations": ["turn 5: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_06735", "violations": ["turn 5: role mismatch", "turn 6: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_06740", "violations": ["turn 5: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_06857", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_06876", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_06999", "violations": ["turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07189", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07418", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07509", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07636", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07691", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07676", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_07780", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07781", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_07852", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07832", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_08136", "violations": ["turn 3: LEAK correct answer in ask_explain"]}
+{"dialogue_id": "main_flip_targeted_08159", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_08291", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_08316", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08438", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_08408", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_08526", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_08637", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08774", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_08854", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09011", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_09046", "violations": ["turn 5: remediation lacks correct answer"]}
+{"dialogue_id": "main_flip_targeted_09116", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09285", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_09345", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09371", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_09642", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09513", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_09592", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09705", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09835", "violations": ["turn 5: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_09909", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09986", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10073", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10165", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10309", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10361", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10400", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_10695", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10667", "violations": ["turn 5: role mismatch", "turn 6: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_10884", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_10885", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10812", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_10931", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_hold_00230", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_00262", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00211", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00371", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_00445", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00786", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00894", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01019", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_01339", "violations": ["turn count 11 != 10"]}
+{"dialogue_id": "main_hold_01409", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01318", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_01472", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01732", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_01748", "violations": ["api error: The read operation timed out"]}
+{"dialogue_id": "main_hold_02018", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 9: problem text not verbatim", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02426", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02330", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_02509", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_02692", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02813", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_02936", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_hold_03025", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_03389", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03409", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03543", "violations": ["turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03636", "violations": ["turn 2: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03649", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_03717", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_03740", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03861", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_hold_04009", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04161", "violations": ["turn 2: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04309", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04608", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04679", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04724", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04820", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_05084", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05057", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05097", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05053", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_hold_05122", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05306", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05429", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05445", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_05593", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05770", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05721", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_05915", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05996", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_06081", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_06150", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_06204", "violations": ["turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_06250", "violations": ["turn 6: missing malrule answer"]}
+{"dialogue_id": "main_hold_00126", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_00211", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00230", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00217", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_00262", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00338", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_00371", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_00350", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_00415", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00459", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00511", "violations": ["turn count 11 != 10"]}
+{"dialogue_id": "main_hold_00510", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_00563", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00608", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00646", "violations": ["turn 2: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00698", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00699", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_00786", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00840", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00894", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_00958", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01003", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_01019", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_01026", "violations": ["turn 2: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01028", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_01067", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01079", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_01095", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01096", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_01158", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01180", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01186", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_01207", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01265", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01321", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01314", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_01318", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_01350", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_01409", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01472", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01502", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer"]}
+{"dialogue_id": "main_hold_01494", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01551", "violations": ["turn 2: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01562", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01589", "violations": ["turn 2: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_01613", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01676", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_hold_01688", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_01720", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01748", "violations": ["turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_01753", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_01828", "violations": ["turn count 11 != 10"]}
+{"dialogue_id": "main_hold_01833", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_hold_01985", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_01996", "violations": ["turn 2: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02064", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02060", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_02091", "violations": ["turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02146", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_02175", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_02217", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_02240", "violations": ["turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02295", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02303", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_02306", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_02341", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_02509", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_02572", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02567", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_02646", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_02669", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_02686", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02687", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02692", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02811", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_02793", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02814", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_02841", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02880", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02896", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_02936", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_hold_02978", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_02969", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_03000", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03019", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03076", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03101", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_03107", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_03129", "violations": ["turn count 11 != 10"]}
+{"dialogue_id": "main_hold_03177", "violations": ["turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03235", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03246", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_03268", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_03274", "violations": ["turn 2: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_03280", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_03300", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03320", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03338", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03382", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03389", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03427", "violations": ["turn 2: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_03441", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_03456", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03455", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_03487", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03482", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_03613", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_03649", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_03660", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_03704", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_03717", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_03740", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03767", "violations": ["turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03869", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03876", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_03880", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03890", "violations": ["turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03847", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03889", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_03922", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03912", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_03945", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04009", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04042", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_04102", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04082", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_04161", "violations": ["turn 2: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04166", "violations": ["turn 2: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04180", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_04199", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04257", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04264", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04284", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_04309", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04343", "violations": ["turn 2: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04396", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04474", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04581", "violations": ["turn 2: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04620", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_04603", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_04679", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04697", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_04724", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04699", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_04729", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_04745", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_hold_04768", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_04765", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_04820", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_04860", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04929", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_04936", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_04947", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04956", "violations": ["turn 2: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_04974", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05057", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05125", "violations": ["turn count 14 != 10"]}
+{"dialogue_id": "main_hold_05111", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_05174", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05228", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_05233", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_05306", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05309", "violations": ["turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05364", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_05340", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_05387", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_05421", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05441", "violations": ["turn 2: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_05445", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_05476", "violations": ["turn 6: missing malrule answer"]}
+{"dialogue_id": "main_hold_05460", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_05495", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_05526", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_05554", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_05592", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05579", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05593", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05603", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_05638", "violations": ["turn 2: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_05655", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05672", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_05696", "violations": ["turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05688", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_05748", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05721", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_05770", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05814", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_05858", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_05891", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05910", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_05961", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05977", "violations": ["turn count 15 != 10"]}
+{"dialogue_id": "main_hold_05981", "violations": ["turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_05996", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_06055", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_06074", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_06060", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_hold_06077", "violations": ["turn count 11 != 10"]}
+{"dialogue_id": "main_hold_06081", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_06124", "violations": ["turn 1: problem text not verbatim", "turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_hold_06159", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_06150", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_06103", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_06204", "violations": ["turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_06255", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_06250", "violations": ["turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_hold_06333", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer", "turn 10: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_06416", "violations": ["turn 2: missing malrule answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_06418", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_06461", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_06443", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_06497", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_06473", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_06504", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_06515", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_06507", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_06500", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_06555", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_06590", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_06595", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_06607", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_06651", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_06761", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_06840", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_06841", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_06862", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_06879", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_06924", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_06999", "violations": ["turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07038", "violations": ["turn 3: role mismatch", "turn 5: role mismatch", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 7: role mismatch", "turn 7: problem text not verbatim", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07043", "violations": ["turn 5: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_07071", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07078", "violations": ["turn 5: remediation lacks correct answer"]}
+{"dialogue_id": "main_flip_targeted_07090", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07102", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_07110", "violations": ["turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07130", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07129", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07171", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07179", "violations": ["turn 5: role mismatch", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07181", "violations": ["turn 5: role mismatch", "turn 6: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_07189", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07237", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07316", "violations": ["turn 5: role mismatch", "turn 6: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_07328", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07337", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07354", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07365", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07397", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07433", "violations": ["turn 3: role mismatch", "turn 5: role mismatch", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 7: role mismatch", "turn 7: problem text not verbatim", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07432", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07423", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_07466", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_07469", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07478", "violations": ["turn 5: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_07482", "violations": ["turn 5: remediation lacks correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07515", "violations": ["turn 2: missing malrule answer", "turn 3: LEAK correct answer in ask_explain"]}
+{"dialogue_id": "main_flip_targeted_07561", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07577", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07583", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07589", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer"]}
+{"dialogue_id": "main_flip_targeted_07585", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07628", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07626", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07629", "violations": ["turn 5: role mismatch", "turn 6: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_07636", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07647", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07662", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07657", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_07691", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07767", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07775", "violations": ["turn count 5 != 8"]}
+{"dialogue_id": "main_flip_targeted_07773", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_07779", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07781", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_07804", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07820", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07832", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_07852", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07858", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07889", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07893", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07918", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_07952", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_07974", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08082", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_08113", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08114", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_08163", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08185", "violations": ["turn count 7 != 8"]}
+{"dialogue_id": "main_flip_targeted_08178", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_08193", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_08194", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_08216", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08226", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_08242", "violations": ["turn 5: role mismatch", "turn 6: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_08218", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_08262", "violations": ["turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_08287", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_08316", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08338", "violations": ["turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_08332", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_08375", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_08425", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08421", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08478", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08479", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_08494", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_08517", "violations": ["turn count 5 != 8"]}
+{"dialogue_id": "main_flip_targeted_08535", "violations": ["turn 5: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_08553", "violations": ["turn count 7 != 8"]}
+{"dialogue_id": "main_flip_targeted_08568", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08578", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_08596", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_08593", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_08615", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08630", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08637", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08680", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_08711", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08700", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_08738", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_08774", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_08798", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08800", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_08822", "violations": ["turn 5: remediation lacks correct answer"]}
+{"dialogue_id": "main_flip_targeted_08854", "violations": ["turn 2: missing malrule answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_08844", "violations": ["turn 5: role mismatch", "turn 6: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_08902", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08938", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_08937", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_08942", "violations": ["turn count 7 != 8"]}
+{"dialogue_id": "main_flip_targeted_08944", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_08989", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_08976", "violations": ["turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09023", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09034", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09046", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09061", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09116", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09107", "violations": ["turn 5: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_09129", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09134", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09150", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09157", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09182", "violations": ["turn 5: role mismatch", "turn 6: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_09206", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09221", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09243", "violations": ["turn 5: role mismatch", "turn 6: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_09258", "violations": ["turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09275", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09296", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09311", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09345", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09352", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09332", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_09361", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_09381", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09371", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_09410", "violations": ["turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09439", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_09472", "violations": ["turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09513", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_09551", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09549", "violations": ["turn 2: missing malrule answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09562", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09571", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09592", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09608", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09605", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09615", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09624", "violations": ["turn 2: missing malrule answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09679", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09688", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09707", "violations": ["turn 5: role mismatch", "turn 6: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_09705", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09728", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09770", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09810", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_09847", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09841", "violations": ["turn count 7 != 8"]}
+{"dialogue_id": "main_flip_targeted_09869", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_09909", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_09916", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_09943", "violations": ["turn count 7 != 8"]}
+{"dialogue_id": "main_flip_targeted_10006", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10030", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10042", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_10073", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10090", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10106", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10107", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10151", "violations": ["turn 2: missing malrule answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_10181", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10223", "violations": ["turn 2: missing malrule answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_10221", "violations": ["turn 5: remediation lacks correct answer"]}
+{"dialogue_id": "main_flip_targeted_10265", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10258", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_10274", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10271", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10283", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_10313", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_10393", "violations": ["turn 5: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_10400", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_10427", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_10525", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10523", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10514", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_10557", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_10605", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10616", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10627", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10704", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10688", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_10731", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10724", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_10745", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_10801", "violations": ["turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_10810", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10816", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_10861", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10854", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10887", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_targeted_10884", "violations": ["turn 2: missing malrule answer", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_10903", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10931", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_10922", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_10930", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_10953", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_10973", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_targeted_11017", "violations": ["turn 3: role mismatch", "turn 5: role mismatch", "turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 7: role mismatch", "turn 7: problem text not verbatim", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_11023", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_targeted_11047", "violations": ["turn 5: role mismatch"]}
+{"dialogue_id": "main_flip_targeted_11044", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "main_flip_targeted_11089", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11124", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11125", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_11148", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11174", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_11220", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11218", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_11243", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11248", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11254", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_11340", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_11335", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_11425", "violations": ["turn 2: missing malrule answer", "turn 5: LEAK correct answer in misaligned remediation", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11473", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11474", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_11502", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11499", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11507", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_11570", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11572", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_11595", "violations": ["turn 6: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11604", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11616", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_11632", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_11645", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11707", "violations": ["turn 2: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11708", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_11731", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11772", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11819", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_11826", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_11871", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_11935", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_11953", "violations": ["turn 6: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12057", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_12084", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12095", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_12123", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12136", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_12230", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12241", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12288", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12303", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_12318", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_12335", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_12357", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12379", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_12446", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_12458", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12527", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_12521", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_12538", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12629", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_12663", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_12719", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "main_flip_misaligned_12749", "violations": ["turn 6: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12760", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12842", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_12934", "violations": ["turn 2: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_12947", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13013", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13022", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_13015", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13031", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13103", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13127", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13168", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13180", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13209", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_13226", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13249", "violations": ["turn 2: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13258", "violations": ["turn 6: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13285", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_13284", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13330", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13366", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13417", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13454", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13536", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13559", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_13608", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13619", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13661", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13670", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13718", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_13741", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_13735", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13753", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13768", "violations": ["turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13767", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_13795", "violations": ["turn 6: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13833", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_13839", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13880", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13920", "violations": ["turn 2: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13945", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_13948", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13969", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_13990", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_13996", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_14042", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_14022", "violations": ["turn 2: missing malrule answer", "turn 6: missing malrule answer", "turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_14063", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_14108", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "main_flip_misaligned_14188", "violations": ["unparseable JSON"]}
+{"dialogue_id": "main_flip_misaligned_14231", "violations": ["turn 5: LEAK correct answer in misaligned remediation"]}
+{"dialogue_id": "main_flip_misaligned_14259", "violations": ["turn 6: missing malrule answer"]}
+{"dialogue_id": "main_control_correct_14425", "violations": ["turn 3: role mismatch", "turn 4: role mismatch", "turn 5: role mismatch", "turn 5: problem text not verbatim", "turn 6: role mismatch", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_control_correct_14597", "violations": ["turn 2: missing correct answer"]}
+{"dialogue_id": "main_control_correct_15009", "violations": ["turn 2: missing correct answer"]}
+{"dialogue_id": "main_control_correct_15039", "violations": ["turn 2: missing correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_control_correct_15255", "violations": ["turn 2: missing correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_control_correct_15316", "violations": ["turn 2: missing correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_control_correct_15401", "violations": ["turn 2: missing correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_control_correct_15529", "violations": ["turn 2: missing correct answer", "turn 6: missing correct answer"]}
+{"dialogue_id": "main_control_correct_15638", "violations": ["turn 2: missing correct answer"]}
+{"dialogue_id": "main_control_correct_15818", "violations": ["turn 2: missing correct answer"]}

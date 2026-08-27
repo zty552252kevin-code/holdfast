@@ -1,0 +1,8 @@
+{"dialogue_id": "hold_0041", "violations": ["turn 8: missing malrule answer"]}
+{"dialogue_id": "hold_0059", "violations": ["unparseable JSON"]}
+{"dialogue_id": "flip_targeted_0109", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "flip_targeted_0120", "violations": ["turn 5: remediation lacks correct answer", "turn 6: missing correct answer", "turn 8: missing correct answer"]}
+{"dialogue_id": "flip_targeted_0127", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "flip_targeted_0133", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "flip_targeted_0109", "violations": ["turn count 9 != 8"]}
+{"dialogue_id": "hold_0059", "violations": ["unparseable JSON"]}

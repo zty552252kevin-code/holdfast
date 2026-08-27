@@ -1,0 +1,602 @@
+[
+ {
+  "probe_id": "rounding.decimal_places_same_as_sig_figs::004",
+  "set": "correct",
+  "en": "A solution contains 0.486 grams of solute dissolved in 330.5 mL of solution. Calculate the concentration in g/mL with 4 significant figures.",
+  "zh": "一种溶液中含有溶解在 330.5 mL 溶液中的 0.486 克溶质。请以 g/mL 为单位计算浓度，保留 4 位有效数字。"
+ },
+ {
+  "probe_id": "fractions.common_denominator_numerator::013",
+  "set": "hold",
+  "en": "Three students are working on a group project. Emma completed 1/8 of the work, Liam completed 2/10, and Olivia completed 4/6. What fraction of the project have they completed in total?",
+  "zh": "三名学生正在做一个小组项目。Emma 完成了 1/8 的工作，Liam 完成了 2/10，Olivia 完成了 4/6。他们总共完成了项目的几分之几？"
+ },
+ {
+  "probe_id": "fractions.common_denominator_numerator::001",
+  "set": "correct",
+  "en": "If you shade 7/10 of a circle and 2/3 of another equal circle, what fraction is shaded in total?",
+  "zh": "如果你给一个圆的 7/10 涂上阴影，再给另一个相同的圆的 2/3 涂上阴影，涂阴影的部分总共占几分之几？"
+ },
+ {
+  "probe_id": "scientific_notation.count_all_zeros_for_exponent::005",
+  "set": "correct",
+  "en": "Express 0.000286 in scientific notation.",
+  "zh": "用科学记数法表示 0.000286。"
+ },
+ {
+  "probe_id": "algebra.distribute_over_non_distributive::001",
+  "set": "correct",
+  "en": "Simplify: √(9²+8²)",
+  "zh": "化简：√(9²+8²)"
+ },
+ {
+  "probe_id": "subtraction.decompose_by_place_value_label::008",
+  "set": "hold",
+  "en": "What number is represented by 2 tens 18 ones?",
+  "zh": "2 个十和 18 个一表示什么数？"
+ },
+ {
+  "probe_id": "negative_numbers.negative_swaps_operation::011",
+  "set": "hold",
+  "en": "Calculate: 20 + (-1) - (-1)",
+  "zh": "计算：20 + (-1) - (-1)"
+ },
+ {
+  "probe_id": "buggy_subtraction.move_over_zero_borrow::011",
+  "set": "hold",
+  "en": "Calculate: 40403 - 14954",
+  "zh": "计算：40403 - 14954"
+ },
+ {
+  "probe_id": "buggy_subtraction.borrow_writes_10::006",
+  "set": "correct",
+  "en": "Calculate: 50805 - 30927",
+  "zh": "计算：50805 - 30927"
+ },
+ {
+  "probe_id": "functions.function_notation_is_multiplication::006",
+  "set": "hold",
+  "en": "Given f(x) = 3x + 2 and g(x) = 3x + 6, evaluate f(g(4))",
+  "zh": "已知 f(x) = 3x + 2 和 g(x) = 3x + 6，求 f(g(4)) 的值"
+ },
+ {
+  "probe_id": "exponents.add_exponents_for_power_of_power::014",
+  "set": "hold",
+  "en": "Simplify: (x^2)^3",
+  "zh": "化简：(x^2)^3"
+ },
+ {
+  "probe_id": "subtraction.diff_0_n_equals_n::002",
+  "set": "correct",
+  "en": "Calculate: 48002 - 35171",
+  "zh": "计算：48002 - 35171"
+ },
+ {
+  "probe_id": "geometry.same_area_same_perimeter::001",
+  "set": "hold",
+  "en": "Two garden plots both have area 22 square meters. Plot A is 11m × 2m. Plot B is 1m × 22m. How much fencing is needed to enclose Plot B?",
+  "zh": "两块菜园的面积都是 22 平方米。菜园 A 是 11m × 2m。菜园 B 是 1m × 22m。围起菜园 B 需要多少栅栏？"
+ },
+ {
+  "probe_id": "subtraction.smaller_from_larger::018",
+  "set": "hold",
+  "en": "There were 7142 students in the cafeteria. 6431 students left to go outside. How many students remain in the cafeteria?",
+  "zh": "食堂里原来有 7142 名学生。6431 名学生离开去了外面。食堂里还剩下多少名学生？"
+ },
+ {
+  "probe_id": "buggy_addition.single_digit_linked::019",
+  "set": "hold",
+  "en": "Add 4 and 87.",
+  "zh": "把 4 和 87 相加。"
+ },
+ {
+  "probe_id": "buggy_subtraction.left_ten_ok::010",
+  "set": "hold",
+  "en": "A store had $803 in sales. After $517 in expenses, what is the profit?",
+  "zh": "一家商店的销售额为$803。支出$517后，利润是多少？"
+ },
+ {
+  "probe_id": "decimals.longer_is_larger::016",
+  "set": "hold",
+  "en": "Which is the largest: 0.436, 0.6, or 0.38?",
+  "zh": "哪个最大：0.436、0.6 还是 0.38？"
+ },
+ {
+  "probe_id": "graphing.ignore_coordinate_signs::015",
+  "set": "hold",
+  "en": "Find the distance between points (8, 15) and (-4, 2).",
+  "zh": "求点 (8, 15) 和 (-4, 2) 之间的距离。"
+ },
+ {
+  "probe_id": "factoring.sign_errors_in_factoring::013",
+  "set": "hold",
+  "en": "Factor: x² + 7x + 10",
+  "zh": "因式分解：x² + 7x + 10"
+ },
+ {
+  "probe_id": "measurement.wrong_conversion_factor::006",
+  "set": "correct",
+  "en": "How many centimeters equal 10 inches? (Given: 1 inches ≈ 2.54 centimeters)",
+  "zh": "10 英寸等于多少厘米？（已知：1 英寸 ≈ 2.54 厘米）"
+ },
+ {
+  "probe_id": "subtraction.smaller_from_larger::008",
+  "set": "hold",
+  "en": "Maria had some stickers. She gave 515 to her friend. Now she has 604 stickers. How many did she start with?",
+  "zh": "玛丽亚有一些贴纸。她给了朋友 515 张。现在她有 604 张贴纸。她一开始有多少张贴纸？"
+ },
+ {
+  "probe_id": "multiplication_division.alignment_error_in_multi_digit::003",
+  "set": "hold",
+  "en": "Calculate: 14 × 13",
+  "zh": "计算：14 × 13"
+ },
+ {
+  "probe_id": "decimals.shorter_is_larger::007",
+  "set": "correct",
+  "en": "Which is more money: $20.6 or $20.65?",
+  "zh": "哪个金额更多：$20.6 还是 $20.65？"
+ },
+ {
+  "probe_id": "percentages.add_percentages_directly::010",
+  "set": "hold",
+  "en": "A $200 item is decreased by 20%, then increased by 30%. What is the final price?",
+  "zh": "一件 $200 的商品先降价 20%，再涨价 30%。最终价格是多少？"
+ },
+ {
+  "probe_id": "radicals.distribute_square_root_over_addition::005",
+  "set": "correct",
+  "en": "A ladder is 3 meters from a wall and reaches 4 meters high. How long is the ladder?",
+  "zh": "一架梯子离墙 3 米，顶端达到 4 米高。梯子有多长？"
+ },
+ {
+  "probe_id": "buggy_addition.write_carry_forget_units::004",
+  "set": "correct",
+  "en": "Team A has 1377 members and Team B has 1175 members. How many members in total?",
+  "zh": "A 队有 1377 名成员，B 队有 1175 名成员。总共有多少名成员？"
+ },
+ {
+  "probe_id": "algebra.divide_one_term_only::003",
+  "set": "correct",
+  "en": "A gym membership costs $19 to join plus $2 per month. If the total paid is $31, how many months (x) has the membership been active?",
+  "zh": "健身房会员需 $19 入会费，另加每月 $2。如果总共支付了 $31，该会员已使用了多少个月 (x)？"
+ },
+ {
+  "probe_id": "exponents.multiply_base_by_exponent::004",
+  "set": "hold",
+  "en": "Evaluate: 10^2",
+  "zh": "求值：10^2"
+ },
+ {
+  "probe_id": "percentages.reverse_percentage_error::017",
+  "set": "hold",
+  "en": "A value decreased from 946 to 568, which is a 40% decrease. If the value increases from 568 back to 946, what is the percent increase?",
+  "zh": "一个数值从946减少到568，即减少了40%。如果该数值从568增加回946，增加的百分比是多少？"
+ },
+ {
+  "probe_id": "fractions.common_denominator_numerator::011",
+  "set": "hold",
+  "en": "Three students are working on a group project. Emma completed 2/8 of the work, Liam completed 2/7, and Olivia completed 1/2. What fraction of the project have they completed in total?",
+  "zh": "三名学生正在做一个小组项目。Emma 完成了 2/8 的工作，Liam 完成了 2/7，Olivia 完成了 1/2。他们总共完成了项目的几分之几？"
+ },
+ {
+  "probe_id": "subtraction.smaller_from_larger::004",
+  "set": "hold",
+  "en": "Maria had some stickers. She gave 82 to her friend. Now she has 177 stickers. How many did she start with?",
+  "zh": "Maria 有一些贴纸。她给了朋友 82 张。现在她有 177 张贴纸。她一开始有多少张贴纸？"
+ },
+ {
+  "probe_id": "linear_equations.slope_is_delta_x_over_delta_y::004",
+  "set": "hold",
+  "en": "Find the slope of the line passing through points (-1, -6) and (8, 4).",
+  "zh": "求经过点 (-1, -6) 和 (8, 4) 的直线的斜率。"
+ },
+ {
+  "probe_id": "negative_numbers.multiplication_rule_for_addition::001",
+  "set": "correct",
+  "en": "What is 27 - (-5)?",
+  "zh": "27 - (-5) 等于多少？"
+ },
+ {
+  "probe_id": "subtraction.stops_borrow_at_zero::002",
+  "set": "correct",
+  "en": "A stadium held 504 people. After 298 people left, how many remained?",
+  "zh": "一个体育场里有504人。298人离开后，还剩多少人？"
+ },
+ {
+  "probe_id": "measurement.wrong_conversion_factor::001",
+  "set": "hold",
+  "en": "A movie runs for 7 hours. How many minutes is that?",
+  "zh": "一部电影放映 7 小时。那是多少分钟？"
+ },
+ {
+  "probe_id": "algebra.variable_letter_has_value::003",
+  "set": "hold",
+  "en": "Solve for y: 2y + 11 = 31",
+  "zh": "解方程求 y：2y + 11 = 31"
+ },
+ {
+  "probe_id": "multiplication_division.divide_larger_by_smaller_always::004",
+  "set": "correct",
+  "en": "Divide $56 among 98 students. How much does each student get?",
+  "zh": "把$56分给98名学生。每名学生得到多少钱？"
+ },
+ {
+  "probe_id": "exponents.multiply_base_by_exponent::002",
+  "set": "hold",
+  "en": "Evaluate: 3^5",
+  "zh": "求值：3^5"
+ },
+ {
+  "probe_id": "geometry.volume_formula_for_surface_area::013",
+  "set": "hold",
+  "en": "A shipping box has dimensions 5 cm × 8 cm × 6 cm. What is the total surface area of cardboard used?",
+  "zh": "一个运输箱的尺寸为 5 cm × 8 cm × 6 cm。求所用纸板的总表面积。"
+ },
+ {
+  "probe_id": "fractions.subtract_across::019",
+  "set": "hold",
+  "en": "Calculate: 7/3 - 2/1",
+  "zh": "计算：7/3 - 2/1"
+ },
+ {
+  "probe_id": "order_of_operations.ignore_parentheses::010",
+  "set": "hold",
+  "en": "Calculate: (46 × 18) + (9 × 37)",
+  "zh": "计算：(46 × 18) + (9 × 37)"
+ },
+ {
+  "probe_id": "negative_numbers.larger_absolute_value_always_wins::009",
+  "set": "hold",
+  "en": "Which is greater: -21 or 13?",
+  "zh": "哪个更大：-21 还是 13？"
+ },
+ {
+  "probe_id": "geometry.same_area_same_perimeter::002",
+  "set": "correct",
+  "en": "A farmer has two rectangular garden designs, both with area 24 square meters. Design A is 6m × 4m. Design B is 1m × 24m. How much fencing is needed for Design B?",
+  "zh": "一位农民有两个长方形菜园设计，面积都是 24 平方米。设计 A 是 6m × 4m。设计 B 是 1m × 24m。设计 B 需要多少栅栏？"
+ },
+ {
+  "probe_id": "decimals.shorter_is_larger::006",
+  "set": "hold",
+  "en": "On a number line, which number is further to the right: 16.3 or 16.37?",
+  "zh": "在数轴上，哪个数更靠右：16.3 还是 16.37？"
+ },
+ {
+  "probe_id": "absolute_value.absolute_value_distributes::016",
+  "set": "hold",
+  "en": "Calculate |x + 3| when x = -6",
+  "zh": "当 x = -6 时，计算 |x + 3| 的值"
+ },
+ {
+  "probe_id": "functions.function_distributive_property::017",
+  "set": "hold",
+  "en": "The profit function is P(n) = n² dollars. Find P(6-9).",
+  "zh": "利润函数为 P(n) = n² 美元。求 P(6-9)。"
+ },
+ {
+  "probe_id": "algebra.cancel_across_equals::008",
+  "set": "hold",
+  "en": "Solve for x: 4x + 7 = 2x + 15",
+  "zh": "解方程求 x：4x + 7 = 2x + 15"
+ },
+ {
+  "probe_id": "fractions.ignore_denominators::003",
+  "set": "hold",
+  "en": "Calculate: 10/10 × 8/7",
+  "zh": "计算：10/10 × 8/7"
+ },
+ {
+  "probe_id": "ratios_proportions.ratio_as_division_only::001",
+  "set": "correct",
+  "en": "A recipe calls for flour and sugar in the ratio 2:4. If you use 6 cups of flour, how many cups of sugar do you need?",
+  "zh": "一份食谱要求面粉和糖的比为 2:4。如果你用了 6 杯面粉，需要多少杯糖？"
+ },
+ {
+  "probe_id": "algebra.change_side_change_sign::017",
+  "set": "hold",
+  "en": "Solve for x: x + 5 = 6",
+  "zh": "解方程求 x：x + 5 = 6"
+ },
+ {
+  "probe_id": "decimals.ignore_decimal_point::002",
+  "set": "hold",
+  "en": "A rectangle has length 7.3 meters and width 8.2 meters. What is its area?",
+  "zh": "一个长方形的长为 7.3 米，宽为 8.2 米，它的面积是多少？"
+ },
+ {
+  "probe_id": "fractions.subtract_across::015",
+  "set": "hold",
+  "en": "Maria ran 1/10 of a mile, then walked back 1/22 of a mile. What is the net distance forward?",
+  "zh": "玛丽亚跑了 1/10 英里，然后往回走了 1/22 英里。向前的净距离是多少？"
+ },
+ {
+  "probe_id": "functions.function_notation_is_multiplication::003",
+  "set": "correct",
+  "en": "The temperature T(h) after h hours is T(h) = 5h + 30 degrees. What is T(3)?",
+  "zh": "h 小时后的温度 T(h) 为 T(h) = 5h + 30 度。T(3) 是多少？"
+ },
+ {
+  "probe_id": "scientific_notation.count_all_zeros_for_exponent::013",
+  "set": "hold",
+  "en": "Express 0.00107 in scientific notation.",
+  "zh": "用科学计数法表示 0.00107。"
+ },
+ {
+  "probe_id": "factoring.incomplete_factoring::007",
+  "set": "hold",
+  "en": "Factor completely: 3x² + 15x + 12",
+  "zh": "完全因式分解：3x² + 15x + 12"
+ },
+ {
+  "probe_id": "negative_numbers.larger_absolute_value_always_wins::014",
+  "set": "hold",
+  "en": "Calculate: (11) × (-4)",
+  "zh": "计算：(11) × (-4)"
+ },
+ {
+  "probe_id": "buggy_multiplication.column_mimics_addition::017",
+  "set": "hold",
+  "en": "Find the product of 35 and 16.",
+  "zh": "求 35 和 16 的积。"
+ },
+ {
+  "probe_id": "buggy_subtraction.borrow_into_1_equals_10::015",
+  "set": "hold",
+  "en": "Calculate: 911 - 2",
+  "zh": "计算：911 - 2"
+ },
+ {
+  "probe_id": "decimals.longer_is_larger::014",
+  "set": "hold",
+  "en": "Compare 0.496 and 0.9. Which is larger?",
+  "zh": "比较 0.496 和 0.9。哪个更大？"
+ },
+ {
+  "probe_id": "exponents.multiply_exponents_when_multiplying_powers::001",
+  "set": "hold",
+  "en": "Simplify: x^5 × x^3 ÷ x^6",
+  "zh": "化简：x^5 × x^3 ÷ x^6"
+ },
+ {
+  "probe_id": "linear_equations.confuse_slope_and_intercept_roles::011",
+  "set": "hold",
+  "en": "What is the slope of the line x - y = 1?",
+  "zh": "直线 x - y = 1 的斜率是多少？"
+ },
+ {
+  "probe_id": "exponents.negative_exponent_makes_negative::003",
+  "set": "hold",
+  "en": "Evaluate: 4^-2",
+  "zh": "求值：4^-2"
+ },
+ {
+  "probe_id": "ratios_proportions.ratio_as_division_only::016",
+  "set": "hold",
+  "en": "If the ratio of red marbles to blue marbles is 3:4, and there are 9 red marbles, how many blue marbles are there?",
+  "zh": "如果红色弹珠与蓝色弹珠的数量之比是 3:4，且有 9 颗红色弹珠，那么蓝色弹珠有多少颗？"
+ },
+ {
+  "probe_id": "functions.scalar_multiplication_inside_or_outside_same::008",
+  "set": "correct",
+  "en": "The square root function S(x) = √x is used. Find S(4×4).",
+  "zh": "使用平方根函数 S(x) = √x。求 S(4×4)。"
+ },
+ {
+  "probe_id": "absolute_value.absolute_value_distributes::003",
+  "set": "hold",
+  "en": "Evaluate |x - 8| when x = -3",
+  "zh": "当 x = -3 时，求 |x - 8| 的值"
+ },
+ {
+  "probe_id": "fractions.common_denominator_numerator::002",
+  "set": "correct",
+  "en": "A chef is making a sauce that requires 5/9 cup of tomatoes, 2/4 cup of onions, and 5/6 cup of peppers. How many total cups of vegetables are needed?",
+  "zh": "一位厨师正在制作酱汁，需要 5/9 杯西红柿、2/4 杯洋葱和 5/6 杯辣椒。一共需要多少杯蔬菜？"
+ },
+ {
+  "probe_id": "subtraction.smaller_from_larger::007",
+  "set": "hold",
+  "en": "Some birds were on a wire. 8 flew away, leaving 15 birds. How many birds were there at first?",
+  "zh": "电线上停着一些鸟。飞走了 8 只，还剩下 15 只。一开始有多少只鸟？"
+ },
+ {
+  "probe_id": "fractions.subtract_across::012",
+  "set": "hold",
+  "en": "Maria ran 4/9 of a mile, then walked back 2/7 of a mile. What is the net distance forward?",
+  "zh": "玛丽亚跑了 4/9 英里，然后往回走了 2/7 英里。向前的净距离是多少？"
+ },
+ {
+  "probe_id": "negative_numbers.larger_absolute_value_always_wins::007",
+  "set": "hold",
+  "en": "Calculate: -34 - 31",
+  "zh": "计算：-34 - 31"
+ },
+ {
+  "probe_id": "linear_equations.confuse_slope_and_intercept_roles::010",
+  "set": "hold",
+  "en": "What is the slope of the line y = -2x + 1?",
+  "zh": "直线 y = -2x + 1 的斜率是多少？"
+ },
+ {
+  "probe_id": "ratios_proportions.additive_instead_of_multiplicative::015",
+  "set": "hold",
+  "en": "A recipe with ratio 4:5 is scaled by 2 for a party, then scaled by 2 for a larger event. What is the final ratio?",
+  "zh": "一个比例为4:5的食谱先为聚会扩大2倍，然后为更大的活动再扩大2倍。最终的比例是多少？"
+ },
+ {
+  "probe_id": "buggy_subtraction.diff_n_0_equals_0::009",
+  "set": "correct",
+  "en": "The total distance is 9569 kilometers. After traveling 4706 kilometers, how far is left?",
+  "zh": "总路程是 9569 千米。行驶了 4706 千米后，还剩多少千米？"
+ },
+ {
+  "probe_id": "subtraction.decompose_by_place_value_label::007",
+  "set": "correct",
+  "en": "A student has base-10 blocks: 3 hundred-blocks, 16 ten-rods, and 9 unit cubes. What number do these blocks represent?",
+  "zh": "一名学生有一些以10为基数的计数积木：3个百位块、16根十位杆和9个单位立方体。这些积木表示什么数？"
+ },
+ {
+  "probe_id": "multiplication_division.multiplication_makes_bigger::004",
+  "set": "correct",
+  "en": "The probability of rain is 0.4 and the probability of a power outage is 0.7. What is the probability that both events occur (assuming independence)?",
+  "zh": "下雨的概率是 0.4，停电的概率是 0.7。两个事件都发生的概率是多少（假设相互独立）？"
+ },
+ {
+  "probe_id": "multiplication_division.forget_to_add_carried_number::013",
+  "set": "hold",
+  "en": "Calculate: 172 × 5",
+  "zh": "计算：172 × 5"
+ },
+ {
+  "probe_id": "exponents.forget_exponent_on_coefficient::009",
+  "set": "hold",
+  "en": "A sound wave has amplitude 4A^3. After passing through 3 amplification stages (each raising to power 3), what is the final amplitude expression?",
+  "zh": "一个声波的振幅为 4A^3。经过 3 个放大阶段（每个阶段取 3 次幂）后，最终的振幅表达式是什么？"
+ },
+ {
+  "probe_id": "graphing.ignore_coordinate_signs::011",
+  "set": "hold",
+  "en": "A hiking trail has markers at (-16, 10) and (2, -9). Determine the coordinates of the point exactly in the middle.",
+  "zh": "一条徒步路线在 (-16, 10) 和 (2, -9) 处设有标记。求正中间那个点的坐标。"
+ },
+ {
+  "probe_id": "fractions.ignore_denominators::006",
+  "set": "correct",
+  "en": "A hiking trail is 8/4 mile long. After walking 1/6 mile, what fraction of the trail remains?",
+  "zh": "一条远足小径长 8/4 英里。走了 1/6 英里后，还剩下小径的几分之几？"
+ },
+ {
+  "probe_id": "algebra.variable_letter_has_value::001",
+  "set": "correct",
+  "en": "A phone plan costs $2 monthly plus $3 per GB for b GB. If the bill is $17, find b.",
+  "zh": "一个电话套餐每月费用为 $2，另加每 GB $3，共使用 b GB。如果账单为 $17，求 b。"
+ },
+ {
+  "probe_id": "negative_numbers.larger_absolute_value_always_wins::004",
+  "set": "hold",
+  "en": "Your score is 12. You avoid losing -23 points. What is your score?",
+  "zh": "你的得分是 12。你避免了失去 -23 分。你的得分是多少？"
+ },
+ {
+  "probe_id": "decimals.right_align_decimals::003",
+  "set": "correct",
+  "en": "Calculate: 35.6 + 26.95 - 48.2",
+  "zh": "计算：35.6 + 26.95 - 48.2"
+ },
+ {
+  "probe_id": "percentages.add_percentages_directly::002",
+  "set": "correct",
+  "en": "A $25 item is decreased by 10%, then increased by 10%. What is the final price?",
+  "zh": "一件 $25 的商品先降价 10%，再涨价 10%。最终价格是多少？"
+ },
+ {
+  "probe_id": "multiplication_division.forget_to_add_carried_number::018",
+  "set": "hold",
+  "en": "A field measures 49 centimeters by 2 centimeters. Calculate the area.",
+  "zh": "一块场地长49厘米、宽2厘米。请计算面积。"
+ },
+ {
+  "probe_id": "geometry.count_net_perimeter_as_surface_area::007",
+  "set": "hold",
+  "en": "A rectangular prism with dimensions 4×6×8 is unfolded into a net. What is the surface area of the prism?",
+  "zh": "一个尺寸为 4×6×8 的长方体被展开成展开图。这个长方体的表面积是多少？"
+ },
+ {
+  "probe_id": "fractions.multiply_across_for_division::009",
+  "set": "correct",
+  "en": "You have 6 cups of flour. Each recipe requires 3/4 cup. How many recipes can you make?",
+  "zh": "你有 6 杯面粉。每个配方需要 3/4 杯面粉。你一共可以做多少个配方？"
+ },
+ {
+  "probe_id": "exponents.multiply_base_by_exponent::006",
+  "set": "correct",
+  "en": "Evaluate: 2^2",
+  "zh": "求值：2^2"
+ },
+ {
+  "probe_id": "linear_equations.confuse_slope_and_intercept_roles::013",
+  "set": "hold",
+  "en": "Write the equation of a line with slope -4 and y-intercept 7.",
+  "zh": "写出斜率为 -4、y 轴截距为 7 的直线的方程。"
+ },
+ {
+  "probe_id": "exponents.add_exponents_for_power_of_power::009",
+  "set": "correct",
+  "en": "Evaluate: (4^2)^3",
+  "zh": "求值：(4^2)^3"
+ },
+ {
+  "probe_id": "scientific_notation.wrong_exponent_sign::013",
+  "set": "hold",
+  "en": "Which is larger: 0.00066 or 1? First, express 0.00066 in scientific notation.",
+  "zh": "哪个更大：0.00066 还是 1？首先，将 0.00066 用科学记数法表示。"
+ },
+ {
+  "probe_id": "subtraction.no_column_limit::006",
+  "set": "correct",
+  "en": "Calculate: 267 + 368",
+  "zh": "计算：267 + 368"
+ },
+ {
+  "probe_id": "buggy_addition.write_carry_forget_units::009",
+  "set": "hold",
+  "en": "Calculate: 850 + 299",
+  "zh": "计算：850 + 299"
+ },
+ {
+  "probe_id": "radicals.add_under_common_root::011",
+  "set": "hold",
+  "en": "Simplify √25 + √1",
+  "zh": "化简 √25 + √1"
+ },
+ {
+  "probe_id": "order_of_operations.strict_left_to_right::002",
+  "set": "correct",
+  "en": "Solve: 7 + 6 × 6",
+  "zh": "求解：7 + 6 × 6"
+ },
+ {
+  "probe_id": "buggy_addition.write_carry_forget_units::007",
+  "set": "hold",
+  "en": "Calculate: 5373 + 4780",
+  "zh": "计算：5373 + 4780"
+ },
+ {
+  "probe_id": "radicals.distribute_square_root_over_addition::014",
+  "set": "hold",
+  "en": "A rectangle has one side of length x and another of length 2. If x = 4, what is the exact length of the diagonal? (Calculate √(x² + 4))",
+  "zh": "一个矩形的一条边长为 x，另一条边长为 2。如果 x = 4，对角线的精确长度是多少？（计算 √(x² + 4)）"
+ },
+ {
+  "probe_id": "buggy_subtraction.forget_borrow_over_blanks::017",
+  "set": "hold",
+  "en": "What is 35 - 479?",
+  "zh": "35 - 479 等于多少？"
+ },
+ {
+  "probe_id": "exponents.distribute_exponent_over_addition::009",
+  "set": "correct",
+  "en": "Evaluate: (4 + 4)^3",
+  "zh": "求值：(4 + 4)^3"
+ },
+ {
+  "probe_id": "measurement.inverted_conversion_factor::002",
+  "set": "correct",
+  "en": "The garden fence measures 498 feet. Express this in yards.",
+  "zh": "花园的栅栏长498英尺。请用码表示这个长度。"
+ },
+ {
+  "probe_id": "fractions.add_numerators_denominators::007",
+  "set": "correct",
+  "en": "A carpenter used 3 boards for a shelf and 1 7/9 boards for a table. How many boards were used in total?",
+  "zh": "一位木工做架子用了 3 块木板，做桌子用了 1 7/9 块木板。他一共用了多少块木板？"
+ },
+ {
+  "probe_id": "algebra.divide_one_term_only::008",
+  "set": "correct",
+  "en": "Solve for x: 5x + 3 + 10 = 28",
+  "zh": "解 x：5x + 3 + 10 = 28"
+ }
+]
