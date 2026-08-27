@@ -537,7 +537,9 @@ preview/aggregate results, analysis scripts, figures, the preregistration
 (PLAN v1.0 at `8c1fe4b` plus dated amendments), and the decision log
 D-001–D-027 recording every incident and deviation transparently.
 Checkpoint release is exemplar-based: the kept cells (EN 4B-4k, 8B-4k,
-8B-16k, 14B-4k SFT and 8B DPO; all 3 seeds each) — the remaining cells'
+8B-16k, 14B-4k SFT and 8B DPO, all 3 seeds each, plus surviving single-seed
+4B-DPO and zh-8B exemplars), hosted on ModelScope at
+`ZhaoKevin/holdfast-qwen3-student-simulators` — the remaining cells'
 final weights were deleted under disk pressure during the run window
 (D-020) and are exactly reproducible from the frozen recipe, seeds, and
 released data. Released copies of infrastructure-adjacent files (decision

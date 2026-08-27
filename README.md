@@ -78,8 +78,11 @@ See `docs/PAPER.md` §3–4.
 
 Code, generators, rendered dialogues (EN + zh), frozen probe sets, DPO pairs,
 eval previews, figures, and the full prereg/decision history are in this repo.
-Checkpoint exemplars (4B/8B/14B SFT + 8B DPO, 3 seeds each) are hosted
-separately — links will be added here at release.
+Checkpoint exemplars — EN 4B-4k / 8B-4k / 8B-16k / 14B-4k SFT and 8B DPO
+(3 seeds each), plus single-seed 4B-DPO and zh-8B exemplars; 17 checkpoints in
+consolidated HF format — are hosted on ModelScope:
+[ZhaoKevin/holdfast-qwen3-student-simulators](https://modelscope.cn/models/ZhaoKevin/holdfast-qwen3-student-simulators).
+Code mirror: [Gitee](https://gitee.com/zty552252kevin/holdfast).
 
 ## License notes
 
@@ -96,5 +99,15 @@ separately — links will be added here at release.
 
 ## Citation
 
-Citation entry will be added at release. Please also cite MalruleLib
-(Chen, Liu & Sonkar, arXiv:2601.03217).
+```bibtex
+@misc{zhao2026holdfast,
+  title  = {HoldFast: Training Small Open Models to Hold Assigned Math
+            Misconceptions Through Multi-Turn Tutoring --- and to Yield
+            Only to Targeted Remediation},
+  author = {Zhao, Kevin},
+  year   = {2026},
+  url    = {https://github.com/zty552252kevin-code/holdfast}
+}
+```
+
+Please also cite MalruleLib (Chen, Liu & Sonkar, arXiv:2601.03217).
