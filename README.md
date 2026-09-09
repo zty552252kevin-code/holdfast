@@ -78,10 +78,15 @@ See `docs/PAPER.md` §3–4.
 
 Code, generators, rendered dialogues (EN + zh), frozen probe sets, DPO pairs,
 eval previews, figures, and the full prereg/decision history are in this repo.
-Checkpoint exemplars — EN 4B-4k / 8B-4k / 8B-16k / 14B-4k SFT and 8B DPO
-(3 seeds each), plus single-seed 4B-DPO and zh-8B exemplars; 17 checkpoints in
-consolidated HF format — are hosted on ModelScope:
+Checkpoint exemplars — one seed (s17) per kept cell family: EN 4B-4k /
+8B-4k / 8B-16k / 14B-4k SFT, 8B-DPO and 4B-DPO, and zh-8B; 7 checkpoints in
+consolidated HF format, each md5-verified against the training-node copy —
+are hosted on ModelScope:
 [ZhaoKevin/holdfast-qwen3-student-simulators](https://modelscope.cn/models/ZhaoKevin/holdfast-qwen3-student-simulators).
+The other two seeds of each 3-seed cell are not hosted (transfer budget,
+D-028) and are exactly reproducible from the frozen recipe, seeds, and
+released data; every paper number is a 3-seed mean whose per-seed eval
+previews are in `runs_mirror/`.
 Code mirror: [Gitee](https://gitee.com/zty552252kevin/holdfast).
 
 ## License notes

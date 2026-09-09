@@ -578,3 +578,26 @@ operationalization statements only.
   disclosed in PAPER Abstract/§2(f)/§9: kept cells = EN 4B-4k, 8B-4k,
   8B-16k, 14B-4k SFT + 8B DPO, 3 seeds each; deleted cells reproducible
   from frozen recipe + seeds + released data.
+
+## D-028 (2026-09-09): checkpoint release scope reduced to one seed per family
+  decision owner: Kevin (2026-08-29).
+- **Context.** The only path from the training node to the public was a
+  rate-limited institutional link (~270 KB/s aggregate, frequent drops;
+  neither parallel streams nor protocol changes helped — the cap sits on
+  the node's egress, not on the client side). Transferring all 17 kept
+  checkpoints (~274 GB) would have taken 10+ days with the node's
+  reclamation date unknown.
+- **Decision.** Host **one exemplar seed (s17) per kept cell family** on
+  ModelScope — 7 checkpoints (EN 4B-4k, 8B-4k, 8B-16k, 14B-4k SFT; 8B-DPO;
+  4B-DPO; zh-8B). The s1017/s2017 seeds of the 3-seed cells remain on the
+  institutional volume only and are reproducible from the frozen recipe +
+  seeds + released data; every paper number is a 3-seed mean whose
+  per-seed eval previews ship in `runs_mirror/`, so the statistical claims
+  do not depend on the hosted weights.
+- **Integrity.** Each hosted checkpoint was pulled with resumable
+  in-place rsync, then verified file-by-file (md5) against a manifest
+  computed on the training node before upload; all 7 passed. Transfer
+  window 2026-08-27 → 2026-09-09 (including a 4-day operator pause).
+- **Docs updated.** README (Released artifacts), PAPER §9, and the
+  ModelScope model card now state the 7-checkpoint scope; earlier copies
+  said 17.

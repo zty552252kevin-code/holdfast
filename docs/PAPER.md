@@ -535,14 +535,17 @@ We release: generator and rendering code, training/eval harness, rendered
 dialogues (EN + zh), frozen probe sets with SHA-256 digests, all
 preview/aggregate results, analysis scripts, figures, the preregistration
 (PLAN v1.0 at `8c1fe4b` plus dated amendments), and the decision log
-D-001–D-027 recording every incident and deviation transparently.
-Checkpoint release is exemplar-based: the kept cells (EN 4B-4k, 8B-4k,
-8B-16k, 14B-4k SFT and 8B DPO, all 3 seeds each, plus surviving single-seed
-4B-DPO and zh-8B exemplars), hosted on ModelScope at
-`ZhaoKevin/holdfast-qwen3-student-simulators` — the remaining cells'
-final weights were deleted under disk pressure during the run window
-(D-020) and are exactly reproducible from the frozen recipe, seeds, and
-released data. Released copies of infrastructure-adjacent files (decision
+D-001–D-028 recording every incident and deviation transparently.
+Checkpoint release is exemplar-based: one seed (s17) of each kept cell
+family (EN 4B-4k, 8B-4k, 8B-16k, 14B-4k SFT; 8B-DPO and 4B-DPO; zh-8B —
+7 checkpoints, each md5-verified against the training-node copy), hosted
+on ModelScope at `ZhaoKevin/holdfast-qwen3-student-simulators`. The other
+two seeds of each 3-seed cell were not transferred (transfer budget,
+D-028), and the remaining grid cells' final weights were deleted under
+disk pressure during the run window (D-020); all are exactly reproducible
+from the frozen recipe, seeds, and released data, and every per-seed eval
+preview behind the 3-seed means is released in `runs_mirror/`.
+Released copies of infrastructure-adjacent files (decision
 log, plan, harness comments) are redacted only for internal infrastructure
 identifiers (hostnames, gateway addresses); no scientific content is
 altered (D-027).
